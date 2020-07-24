@@ -1,6 +1,3 @@
-# IoTAssignment3
-COSC2674/2755 Semester 1, 2020 Assignment 3 | Extended Car Share IoT Application
-
 # Welcome to Car Share Application
 The project is about the automatic Car Share System. This system is used to book, find and unlock and lock a car. In addition, the customer
 can report some issues with the car to help the company to maintain the cars. The application is created for four types of users: customer, company manager, engineers and system administrator.
